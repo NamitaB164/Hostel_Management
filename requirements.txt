@@ -1,0 +1,3 @@
+```txt
+mysql-connector-python
+tabulate
