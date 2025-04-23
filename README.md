@@ -1,4 +1,4 @@
-# Hostel_Management
+# Hostel Management
 Developed as part of the CBSE AISSCE 2021-2022 class 12 Computer Science project.
 
 A simple command-line Python project to manage hostel residents, using MySQL as the backend.
