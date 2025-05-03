@@ -10,16 +10,4 @@ A simple command-line Python project to manage hostel residents, using MySQL as 
 - Password-protected admin table
 - Structured output using `tabulate`
 
-## Tech Stack
 
-- Python
-- MySQL 5.7
-- mysql-connector-python
-- tabulate
-
-## Setup
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
